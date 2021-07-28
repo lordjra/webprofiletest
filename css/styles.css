@@ -1,0 +1,108 @@
+body {
+  background-color: #abfff5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  width: 50%;
+  margin: 10px auto 10px auto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 4rem;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  margin: 0 auto 0 auto;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
+div {
+
+}
+.divtop {
+  position: relative;
+  padding-top: 100px;
+  background-color: #abfff5;
+}
+.cloudbot {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.cloudtop {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillimg {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimg2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profpic {
+  width: 12.5%;
+  margin: 20px auto 20px auto;
+}
+
+.profiletext {
+  width: 25%;
+  margin: 20px auto 80px;
+  line-height: 2;
+}
+
+.MySkill {
+  margin: 80px auto;
+}
+
+.garis {
+  width: 5%;
+  border-style: dotted none none none;
+  border-width: 10px;
+  color: grey;
+}
+
+.gtouch {
+  margin: 80px auto 80px auto;
+}
+
+.bottom-container {
+  background-color: #43a89c;
+  padding: 40px;
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
+
+.footer-link {
+  margin: auto 20px auto 20px;
+}
